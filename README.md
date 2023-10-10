@@ -1,0 +1,2 @@
+# Covid-Prediction
+Logisitic regression
